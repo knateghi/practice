@@ -1,0 +1,7 @@
+C:\Users\Kobra Windows 10\source\repos\ConsoleApp2\Tuition\bin\Debug\Tuition.exe.config
+C:\Users\Kobra Windows 10\source\repos\ConsoleApp2\Tuition\bin\Debug\Tuition.exe
+C:\Users\Kobra Windows 10\source\repos\ConsoleApp2\Tuition\bin\Debug\Tuition.pdb
+C:\Users\Kobra Windows 10\source\repos\ConsoleApp2\Tuition\obj\Debug\Tuition.csprojAssemblyReference.cache
+C:\Users\Kobra Windows 10\source\repos\ConsoleApp2\Tuition\obj\Debug\Tuition.csproj.CoreCompileInputs.cache
+C:\Users\Kobra Windows 10\source\repos\ConsoleApp2\Tuition\obj\Debug\Tuition.exe
+C:\Users\Kobra Windows 10\source\repos\ConsoleApp2\Tuition\obj\Debug\Tuition.pdb

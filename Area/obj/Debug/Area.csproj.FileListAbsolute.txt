@@ -1,0 +1,7 @@
+C:\Users\Kobra Windows 10\source\repos\ConsoleApp2\Area\bin\Debug\Area.exe.config
+C:\Users\Kobra Windows 10\source\repos\ConsoleApp2\Area\bin\Debug\Area.exe
+C:\Users\Kobra Windows 10\source\repos\ConsoleApp2\Area\bin\Debug\Area.pdb
+C:\Users\Kobra Windows 10\source\repos\ConsoleApp2\Area\obj\Debug\Area.csprojAssemblyReference.cache
+C:\Users\Kobra Windows 10\source\repos\ConsoleApp2\Area\obj\Debug\Area.csproj.CoreCompileInputs.cache
+C:\Users\Kobra Windows 10\source\repos\ConsoleApp2\Area\obj\Debug\Area.exe
+C:\Users\Kobra Windows 10\source\repos\ConsoleApp2\Area\obj\Debug\Area.pdb
